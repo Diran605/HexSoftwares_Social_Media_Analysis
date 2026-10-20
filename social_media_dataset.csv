@@ -1,0 +1,1001 @@
+post_id,platform,hashtag,content_type,region,views,likes,shares,comments,engagement_level
+P0001,YouTube,#Fashion,Live,Southern Africa,13654,442,45,89,Medium
+P0002,Instagram,#Art,Reel,East Africa,3627,315,40,53,High
+P0003,X,#Entertainment,Text,Latin America,484,12,1,3,Medium
+P0004,YouTube,#Tech,Live,Southern Africa,18918,608,55,125,Medium
+P0005,TikTok,#Finance,Live,East Africa,76131,4884,720,834,High
+P0006,LinkedIn,#Gaming,Carousel,Asia,6720,212,23,57,Medium
+P0007,YouTube,#Education,Video,Central Africa,22585,1192,164,189,Medium
+P0008,X,#Tech,Image,East Africa,19111,332,26,57,Low
+P0009,TikTok,#Startup,Story,Central Africa,8439,444,66,108,High
+P0010,Facebook,#Art,Live,West Africa,11767,38,4,5,Low
+P0011,Instagram,#Fitness,Story,Europe,16812,1431,211,303,High
+P0012,LinkedIn,#Tech,Carousel,Southern Africa,2711,139,25,24,Medium
+P0013,YouTube,#Beauty,Live,East Africa,38370,2040,194,421,Medium
+P0014,X,#Fitness,Video,Asia,10260,119,16,11,Low
+P0015,Facebook,#Lifestyle,Live,North America,87987,532,77,137,Low
+P0016,Instagram,#Travel,Story,West Africa,8681,395,67,94,Medium
+P0017,Facebook,#Beauty,Image,West Africa,4575,51,8,6,Low
+P0018,TikTok,#Food,Video,North America,6216,400,28,60,High
+P0019,X,#Food,Video,Southern Africa,124163,2062,118,343,Low
+P0020,Facebook,#Food,Live,North America,6395,183,12,42,Medium
+P0021,YouTube,#News,Live,West Africa,9695,243,35,47,Medium
+P0022,Instagram,#Sports,Story,Middle East,20511,2097,369,216,High
+P0023,LinkedIn,#Travel,Image,Southern Africa,4803,222,21,44,Medium
+P0024,X,#News,Image,Asia,1631,60,9,15,Medium
+P0025,YouTube,#News,Live,North Africa,10089,427,26,79,Medium
+P0026,TikTok,#Food,Video,North Africa,7140,544,66,191,High
+P0027,Facebook,#Lifestyle,Live,Central Africa,4438,215,16,75,Medium
+P0028,TikTok,#Beauty,Video,Asia,15860,615,70,203,Medium
+P0029,TikTok,#Lifestyle,Live,West Africa,18673,1254,138,206,High
+P0030,YouTube,#Business,Video,West Africa,8546,299,20,111,Medium
+P0031,YouTube,#Music,Video,West Africa,48244,2174,142,340,Medium
+P0032,LinkedIn,#Sports,Video,Southern Africa,3987,146,22,11,Medium
+P0033,Instagram,#Music,Carousel,West Africa,5099,239,29,38,Medium
+P0034,Instagram,#Gaming,Story,Asia,38627,1436,209,446,Medium
+P0035,Facebook,#Entertainment,Image,West Africa,1631,42,5,7,Medium
+P0036,TikTok,#Business,Video,West Africa,33529,626,88,112,Low
+P0037,TikTok,#Fashion,Story,Central Africa,2509,143,10,33,High
+P0038,Facebook,#Art,Live,Southern Africa,18098,374,33,137,Medium
+P0039,Instagram,#Health,Carousel,West Africa,2744,241,21,86,High
+P0040,YouTube,#Education,Video,West Africa,13879,322,33,90,Medium
+P0041,Instagram,#Tech,Image,East Africa,9493,700,127,161,High
+P0042,X,#Art,Text,Central Africa,572,2,0,1,Low
+P0043,YouTube,#Beauty,Video,North America,64243,3227,174,537,Medium
+P0044,Instagram,#Education,Image,East Africa,3629,263,18,51,High
+P0045,X,#Finance,Video,North Africa,6212,166,11,42,Medium
+P0046,X,#Travel,Poll,West Africa,19163,745,74,159,Medium
+P0047,Instagram,#Education,Story,Southern Africa,5736,251,24,35,Medium
+P0048,Instagram,#Travel,Story,Southern Africa,28233,857,105,148,Medium
+P0049,YouTube,#Travel,Video,East Africa,14889,1023,163,270,High
+P0050,TikTok,#Education,Story,West Africa,6974,436,74,100,High
+P0051,TikTok,#Art,Story,Europe,21913,2956,288,395,High
+P0052,TikTok,#Art,Video,Europe,21734,1015,126,169,Medium
+P0053,X,#Tech,Text,North America,239,2,0,1,Low
+P0054,YouTube,#News,Live,East Africa,12812,1021,90,235,High
+P0055,YouTube,#Food,Live,North America,1263,58,9,5,Medium
+P0056,X,#Beauty,Video,West Africa,1953,43,3,14,Medium
+P0057,Facebook,#News,Image,North Africa,3708,10,1,3,Low
+P0058,Facebook,#Business,Live,Southern Africa,1631,65,5,12,Medium
+P0059,TikTok,#Travel,Story,Asia,9124,737,107,146,High
+P0060,TikTok,#Food,Live,Europe,17491,151,19,51,Low
+P0061,YouTube,#Gaming,Live,West Africa,11470,587,40,180,High
+P0062,Facebook,#Finance,Text,Southern Africa,5127,250,38,74,High
+P0063,Facebook,#Beauty,Live,Europe,2484,73,10,24,Medium
+P0064,YouTube,#Finance,Video,Latin America,22255,479,86,99,Low
+P0065,Facebook,#Tech,Image,Latin America,1180,39,2,8,Medium
+P0066,Facebook,#Gaming,Poll,Asia,2766,61,3,19,Medium
+P0067,Facebook,#Finance,Video,East Africa,4650,159,9,28,Medium
+P0068,Instagram,#Beauty,Story,North America,1005,81,13,8,High
+P0069,TikTok,#Food,Live,North America,33044,2629,447,187,High
+P0070,Instagram,#Startup,Carousel,North Africa,5363,249,26,66,Medium
+P0071,TikTok,#Fashion,Video,Central Africa,30669,1109,138,122,Medium
+P0072,Instagram,#Tech,Reel,Central Africa,1456,146,18,42,High
+P0073,X,#Art,Poll,Middle East,12765,220,14,80,Low
+P0074,Instagram,#Music,Reel,Europe,15114,1103,86,248,High
+P0075,TikTok,#News,Live,Europe,3194,354,23,109,High
+P0076,Instagram,#Fitness,Carousel,Southern Africa,22130,1238,147,187,High
+P0077,Instagram,#Music,Carousel,East Africa,9282,240,20,64,Medium
+P0078,YouTube,#Startup,Live,West Africa,9757,165,21,52,Low
+P0079,Facebook,#Gaming,Text,North Africa,2008,5,0,3,Low
+P0080,X,#Education,Video,Central Africa,1223,50,2,13,Medium
+P0081,YouTube,#Finance,Live,Southern Africa,9381,217,38,61,Medium
+P0082,Instagram,#Sports,Story,North America,26734,1402,180,171,Medium
+P0083,X,#Business,Image,Europe,11279,148,16,39,Low
+P0084,TikTok,#News,Live,North Africa,4354,69,11,18,Low
+P0085,TikTok,#Food,Live,West Africa,17661,56,4,10,Low
+P0086,TikTok,#Fashion,Live,Latin America,11663,1466,189,379,High
+P0087,YouTube,#Beauty,Video,North America,36541,739,88,186,Low
+P0088,Facebook,#Food,Live,West Africa,3033,78,11,15,Medium
+P0089,TikTok,#Fashion,Video,North Africa,30213,793,84,122,Medium
+P0090,Facebook,#News,Text,West Africa,14000,431,45,103,Medium
+P0091,TikTok,#Fitness,Story,North America,102662,6921,831,2160,High
+P0092,YouTube,#Travel,Live,East Africa,2065,93,10,12,Medium
+P0093,Facebook,#Sports,Poll,Asia,1077,3,0,1,Low
+P0094,Instagram,#News,Carousel,Southern Africa,28419,1345,161,296,Medium
+P0095,Instagram,#Education,Carousel,Europe,22383,391,35,137,Low
+P0096,Facebook,#News,Video,Asia,2537,130,11,21,Medium
+P0097,Instagram,#Education,Reel,West Africa,51132,2267,297,549,Medium
+P0098,TikTok,#Travel,Live,West Africa,3197,140,13,20,Medium
+P0099,TikTok,#Beauty,Video,North America,9504,966,80,172,High
+P0100,LinkedIn,#Art,Video,Central Africa,1437,16,1,6,Low
+P0101,LinkedIn,#Finance,Image,West Africa,5454,22,3,6,Low
+P0102,YouTube,#Lifestyle,Live,East Africa,2656,27,3,10,Low
+P0103,Instagram,#Finance,Image,Central Africa,25328,1287,79,257,Medium
+P0104,LinkedIn,#Education,Text,North America,150,7,0,3,Medium
+P0105,YouTube,#Entertainment,Video,Asia,12830,313,31,40,Low
+P0106,YouTube,#Education,Live,Latin America,74556,1208,76,254,Low
+P0107,Facebook,#Entertainment,Text,West Africa,2311,101,16,24,Medium
+P0108,Instagram,#Art,Image,North America,9397,405,30,131,Medium
+P0109,TikTok,#Art,Video,Southern Africa,522638,1538,90,462,Low
+P0110,LinkedIn,#Food,Text,Europe,3767,225,34,20,High
+P0111,Facebook,#Beauty,Image,West Africa,7385,297,41,73,Medium
+P0112,TikTok,#Lifestyle,Live,Central Africa,24472,2749,295,472,High
+P0113,Instagram,#Beauty,Reel,North Africa,2261,158,13,31,High
+P0114,Facebook,#Food,Text,West Africa,3456,86,8,19,Medium
+P0115,TikTok,#News,Story,Asia,46263,4177,497,717,High
+P0116,X,#Music,Video,North America,815,27,4,3,Medium
+P0117,YouTube,#Business,Video,Europe,112301,6441,755,2098,High
+P0118,YouTube,#Beauty,Live,West Africa,6094,236,37,16,Medium
+P0119,Instagram,#Travel,Story,North America,900,74,11,12,High
+P0120,Facebook,#Tech,Live,West Africa,1934,35,2,10,Low
+P0121,Facebook,#Business,Text,Asia,4280,112,6,20,Medium
+P0122,YouTube,#Lifestyle,Video,West Africa,3397,85,11,24,Medium
+P0123,TikTok,#News,Live,West Africa,2650,215,29,21,High
+P0124,Instagram,#Sports,Reel,North America,14800,1575,220,325,High
+P0125,TikTok,#Music,Video,Asia,11180,33,2,9,Low
+P0126,Facebook,#Finance,Image,Asia,2572,44,3,16,Low
+P0127,Instagram,#Fashion,Reel,Central Africa,5502,546,42,204,High
+P0128,TikTok,#News,Live,Europe,19429,1433,185,166,High
+P0129,TikTok,#Gaming,Live,North America,10155,1023,78,272,High
+P0130,Facebook,#News,Text,West Africa,2125,106,9,19,Medium
+P0131,TikTok,#Startup,Story,Asia,6046,461,39,138,High
+P0132,LinkedIn,#Startup,Carousel,Asia,1319,28,3,9,Medium
+P0133,Facebook,#Sports,Image,Europe,1573,44,6,7,Medium
+P0134,Instagram,#Startup,Carousel,Central Africa,2390,106,9,39,Medium
+P0135,Facebook,#Education,Image,North America,2975,80,9,19,Medium
+P0136,TikTok,#Sports,Video,Latin America,4815,369,54,60,High
+P0137,LinkedIn,#Fashion,Text,North Africa,150,2,0,1,Low
+P0138,Facebook,#Finance,Live,Southern Africa,8324,314,18,122,Medium
+P0139,X,#Education,Poll,North America,453,8,0,3,Low
+P0140,TikTok,#Art,Video,West Africa,20278,1746,184,339,High
+P0141,Facebook,#Lifestyle,Image,West Africa,8261,227,36,26,Medium
+P0142,Facebook,#Finance,Image,West Africa,6606,164,22,44,Medium
+P0143,LinkedIn,#Finance,Poll,Middle East,3700,113,18,11,Medium
+P0144,Facebook,#Music,Image,North Africa,1857,66,12,11,Medium
+P0145,Facebook,#Finance,Text,Asia,7414,193,25,49,Medium
+P0146,Instagram,#Health,Reel,North Africa,14522,683,63,125,Medium
+P0147,Instagram,#Travel,Carousel,Central Africa,19996,182,15,49,Low
+P0148,Facebook,#Lifestyle,Video,Europe,4625,155,23,42,Medium
+P0149,Instagram,#Fitness,Live,Central Africa,14106,417,76,118,Medium
+P0150,TikTok,#Food,Video,Europe,43571,1091,190,301,Medium
+P0151,X,#Art,Poll,Central Africa,2762,85,6,22,Medium
+P0152,X,#Music,Video,Europe,2868,23,2,4,Low
+P0153,TikTok,#Travel,Live,Southern Africa,85972,560,61,196,Low
+P0154,Facebook,#Startup,Text,Central Africa,357,10,1,3,Medium
+P0155,TikTok,#News,Live,North America,55319,2166,182,486,Medium
+P0156,YouTube,#Tech,Video,West Africa,2820,124,21,31,Medium
+P0157,Instagram,#Art,Carousel,West Africa,14760,776,129,54,Medium
+P0158,YouTube,#Tech,Live,North America,7839,395,46,44,Medium
+P0159,YouTube,#Fashion,Live,Asia,48683,143,18,33,Low
+P0160,YouTube,#Food,Live,North America,3946,246,26,36,High
+P0161,TikTok,#Gaming,Story,East Africa,6005,174,13,51,Medium
+P0162,LinkedIn,#Music,Image,Southern Africa,945,51,9,12,High
+P0163,Instagram,#Business,Story,Asia,2527,79,6,13,Medium
+P0164,TikTok,#Startup,Video,Middle East,13951,42,4,9,Low
+P0165,Facebook,#Fashion,Image,Southern Africa,5201,149,25,32,Medium
+P0166,Instagram,#Gaming,Story,Asia,14453,263,17,62,Low
+P0167,X,#Beauty,Image,North Africa,2903,58,3,14,Low
+P0168,X,#Travel,Poll,Central Africa,2165,70,6,17,Medium
+P0169,Instagram,#Tech,Carousel,Europe,1740,120,7,46,High
+P0170,LinkedIn,#Fitness,Carousel,Southern Africa,3276,74,9,18,Medium
+P0171,Instagram,#Health,Image,Central Africa,8512,254,17,73,Medium
+P0172,Facebook,#News,Video,Latin America,9110,384,33,71,Medium
+P0173,Instagram,#News,Story,Europe,2968,315,38,107,High
+P0174,LinkedIn,#Gaming,Video,Central Africa,752,36,4,14,High
+P0175,TikTok,#Beauty,Video,East Africa,5271,700,49,189,High
+P0176,TikTok,#Tech,Video,Latin America,25240,1548,184,504,High
+P0177,Instagram,#Art,Reel,North Africa,4783,268,45,45,High
+P0178,LinkedIn,#Entertainment,Text,West Africa,150,5,0,2,Medium
+P0179,X,#Music,Text,East Africa,1684,37,5,11,Medium
+P0180,YouTube,#Music,Video,Europe,21479,1179,180,259,High
+P0181,X,#Entertainment,Image,East Africa,1309,37,6,10,Medium
+P0182,X,#Business,Image,Central Africa,1016,34,5,10,Medium
+P0183,Facebook,#Food,Image,North America,2842,8,1,2,Low
+P0184,Instagram,#Finance,Story,East Africa,7186,458,35,115,High
+P0185,YouTube,#Sports,Video,Central Africa,27849,851,63,328,Medium
+P0186,YouTube,#Fitness,Live,West Africa,13987,149,16,39,Low
+P0187,Instagram,#Business,Live,East Africa,13092,786,128,197,High
+P0188,TikTok,#Finance,Live,Latin America,16140,780,126,172,Medium
+P0189,YouTube,#Lifestyle,Video,Asia,17959,1025,157,120,High
+P0190,Instagram,#Travel,Story,Latin America,728,74,4,16,High
+P0191,LinkedIn,#Sports,Image,Central Africa,1796,44,7,7,Medium
+P0192,Instagram,#Fashion,Image,West Africa,10515,695,62,179,High
+P0193,TikTok,#Education,Story,Southern Africa,12220,937,96,131,High
+P0194,X,#Travel,Video,North Africa,2319,54,3,15,Medium
+P0195,TikTok,#Business,Story,Europe,18150,1856,355,382,High
+P0196,TikTok,#News,Video,Latin America,8798,480,36,122,High
+P0197,Facebook,#News,Image,Europe,4403,87,12,26,Low
+P0198,X,#Startup,Image,Central Africa,1386,42,5,15,Medium
+P0199,TikTok,#Fitness,Video,Europe,8346,246,17,43,Medium
+P0200,Instagram,#Travel,Image,Europe,14419,418,30,148,Medium
+P0201,YouTube,#Finance,Live,Southern Africa,54997,2999,180,528,Medium
+P0202,LinkedIn,#Food,Video,Latin America,1567,33,3,10,Low
+P0203,Facebook,#Education,Poll,West Africa,6281,175,10,41,Medium
+P0204,TikTok,#Tech,Live,Europe,184827,13016,2534,3229,High
+P0205,TikTok,#Lifestyle,Story,Asia,9976,487,62,117,Medium
+P0206,Instagram,#Travel,Carousel,Central Africa,2533,132,10,38,High
+P0207,TikTok,#Fitness,Story,Europe,9002,337,52,58,Medium
+P0208,YouTube,#Business,Video,Europe,51009,1725,255,157,Medium
+P0209,TikTok,#Fashion,Live,Southern Africa,42759,4406,291,1224,High
+P0210,Facebook,#Health,Text,Central Africa,3299,85,13,11,Medium
+P0211,YouTube,#Sports,Live,Europe,14448,325,17,64,Low
+P0212,Facebook,#Health,Video,West Africa,78183,2329,185,639,Medium
+P0213,TikTok,#Business,Story,North America,4130,127,18,13,Medium
+P0214,X,#Music,Text,West Africa,10080,128,11,29,Low
+P0215,YouTube,#Travel,Live,Central Africa,2306,46,7,15,Low
+P0216,YouTube,#Finance,Live,North America,27623,81,7,22,Low
+P0217,TikTok,#Gaming,Story,Southern Africa,37608,3613,211,586,High
+P0218,TikTok,#Business,Live,West Africa,30311,2755,455,702,High
+P0219,LinkedIn,#Entertainment,Video,Asia,5581,73,4,23,Low
+P0220,Instagram,#Fitness,Image,Middle East,1677,181,21,37,High
+P0221,Instagram,#Health,Live,East Africa,28203,1682,247,345,High
+P0222,Facebook,#Beauty,Image,East Africa,14224,45,3,17,Low
+P0223,YouTube,#Lifestyle,Live,West Africa,47344,2862,441,272,High
+P0224,LinkedIn,#Fashion,Text,Central Africa,950,14,1,6,Low
+P0225,Instagram,#Education,Story,North America,44744,2582,173,400,High
+P0226,LinkedIn,#News,Carousel,Central Africa,12240,438,61,68,Medium
+P0227,TikTok,#Fitness,Story,Southern Africa,133220,7600,741,1865,High
+P0228,Facebook,#Travel,Poll,West Africa,315,11,1,2,Medium
+P0229,Facebook,#Food,Text,North America,1208,4,0,2,Low
+P0230,TikTok,#Tech,Video,North America,444700,45822,2755,9816,High
+P0231,TikTok,#Health,Story,North America,1189,72,13,10,High
+P0232,Instagram,#Fitness,Live,West Africa,43652,3294,514,507,High
+P0233,LinkedIn,#Lifestyle,Poll,Asia,589,2,0,1,Low
+P0234,Facebook,#Travel,Live,Latin America,33600,391,49,90,Low
+P0235,LinkedIn,#Entertainment,Video,Central Africa,12095,295,56,77,Medium
+P0236,X,#Food,Video,West Africa,4978,225,31,24,Medium
+P0237,Facebook,#Fashion,Video,North America,7400,195,27,24,Medium
+P0238,X,#Health,Video,East Africa,11988,181,25,32,Low
+P0239,TikTok,#Education,Live,North America,2073,183,24,52,High
+P0240,TikTok,#Entertainment,Live,Europe,11023,679,87,126,High
+P0241,X,#Sports,Image,North America,5328,75,9,14,Low
+P0242,X,#Health,Text,Central Africa,3589,68,9,9,Low
+P0243,Instagram,#Fashion,Image,Europe,1051,11,1,3,Low
+P0244,Facebook,#Health,Live,East Africa,11768,36,4,7,Low
+P0245,Facebook,#Business,Image,Central Africa,5462,227,41,42,Medium
+P0246,X,#Gaming,Image,West Africa,732,27,2,5,Medium
+P0247,Facebook,#Lifestyle,Live,North America,2026,55,10,16,Medium
+P0248,Instagram,#Beauty,Live,North Africa,2872,224,25,33,High
+P0249,Instagram,#Tech,Reel,North America,26576,1939,122,637,High
+P0250,Instagram,#Art,Carousel,Latin America,4841,264,29,62,High
+P0251,YouTube,#Food,Live,Central Africa,3289,31,2,12,Low
+P0252,X,#Gaming,Video,West Africa,3479,131,18,31,Medium
+P0253,Facebook,#Art,Image,Central Africa,7010,257,33,34,Medium
+P0254,Instagram,#Sports,Carousel,Europe,17585,847,102,92,Medium
+P0255,Instagram,#News,Reel,East Africa,10214,503,56,111,Medium
+P0256,YouTube,#Business,Live,West Africa,16925,689,48,108,Medium
+P0257,X,#Travel,Poll,West Africa,11538,589,103,74,Medium
+P0258,TikTok,#Travel,Video,North America,38923,2966,171,845,High
+P0259,TikTok,#Sports,Story,Europe,60828,5010,521,1023,High
+P0260,Facebook,#Tech,Text,Central Africa,4133,141,19,48,Medium
+P0261,TikTok,#Lifestyle,Live,Asia,33013,135,21,18,Low
+P0262,X,#Food,Video,Latin America,4465,11,1,5,Low
+P0263,Instagram,#Tech,Image,Southern Africa,22509,821,88,196,Medium
+P0264,TikTok,#Lifestyle,Story,Asia,9409,1076,65,192,High
+P0265,LinkedIn,#Education,Image,Latin America,4145,176,19,33,Medium
+P0266,TikTok,#Lifestyle,Story,Central Africa,8093,1095,163,279,High
+P0267,Instagram,#Business,Reel,Asia,7079,22,1,5,Low
+P0268,TikTok,#Entertainment,Video,West Africa,102691,13558,2148,1110,High
+P0269,TikTok,#Finance,Story,West Africa,39690,1272,165,285,Medium
+P0270,TikTok,#Business,Live,West Africa,218428,19919,3422,3236,High
+P0271,TikTok,#Sports,Live,North Africa,7306,218,37,53,Medium
+P0272,TikTok,#Music,Live,North America,16289,1392,120,227,High
+P0273,TikTok,#Beauty,Story,North America,16031,1547,269,122,High
+P0274,Facebook,#Education,Video,North America,1203,18,1,4,Low
+P0275,YouTube,#Health,Video,Central Africa,8541,557,60,141,High
+P0276,Instagram,#Fitness,Carousel,North Africa,2551,109,15,35,Medium
+P0277,Instagram,#Entertainment,Image,Europe,3525,143,18,32,Medium
+P0278,Facebook,#Gaming,Image,Southern Africa,2092,101,16,22,Medium
+P0279,X,#Beauty,Poll,Central Africa,1894,39,3,9,Low
+P0280,X,#Startup,Poll,West Africa,3838,38,6,8,Low
+P0281,TikTok,#Finance,Video,Asia,45135,4626,536,1597,High
+P0282,TikTok,#Beauty,Story,North America,21795,1481,207,178,High
+P0283,Instagram,#Entertainment,Reel,Asia,69308,2679,477,324,Medium
+P0284,Instagram,#Fitness,Reel,West Africa,13639,1160,147,323,High
+P0285,Facebook,#Finance,Text,Central Africa,1145,28,2,6,Medium
+P0286,Instagram,#Education,Story,West Africa,1105,41,4,14,Medium
+P0287,TikTok,#Art,Live,Central Africa,8713,786,72,224,High
+P0288,Instagram,#Entertainment,Carousel,West Africa,11367,1125,72,283,High
+P0289,Facebook,#Beauty,Image,West Africa,3831,163,12,32,Medium
+P0290,TikTok,#Music,Story,North Africa,8762,1051,166,129,High
+P0291,X,#Fashion,Text,Asia,1743,71,9,12,Medium
+P0292,TikTok,#Gaming,Live,Europe,6944,665,43,211,High
+P0293,LinkedIn,#Finance,Carousel,Southern Africa,2237,99,6,17,Medium
+P0294,TikTok,#News,Video,Asia,46081,2901,416,659,High
+P0295,X,#Gaming,Poll,West Africa,4153,135,20,40,Medium
+P0296,LinkedIn,#Business,Image,West Africa,2978,67,12,11,Medium
+P0297,LinkedIn,#Business,Carousel,Asia,675,8,1,1,Low
+P0298,X,#Health,Text,Europe,1673,18,3,3,Low
+P0299,YouTube,#Entertainment,Video,Central Africa,31670,613,62,184,Low
+P0300,YouTube,#Lifestyle,Live,West Africa,7839,284,38,33,Medium
+P0301,YouTube,#Tech,Video,Central Africa,2617,106,11,22,Medium
+P0302,TikTok,#Art,Video,West Africa,48346,5238,888,311,High
+P0303,Facebook,#Lifestyle,Live,Southern Africa,3291,55,4,12,Low
+P0304,Facebook,#Entertainment,Live,Southern Africa,17323,614,83,101,Medium
+P0305,X,#Fitness,Image,East Africa,7208,119,13,29,Low
+P0306,Facebook,#Fitness,Poll,West Africa,7540,287,48,83,Medium
+P0307,Instagram,#Business,Story,East Africa,2822,107,17,24,Medium
+P0308,Facebook,#Art,Image,Europe,16400,580,72,135,Medium
+P0309,Instagram,#Travel,Image,Central Africa,5143,407,52,93,High
+P0310,TikTok,#Art,Video,Central Africa,141452,385,36,144,Low
+P0311,Facebook,#Food,Live,West Africa,4001,80,4,23,Low
+P0312,Instagram,#Food,Reel,Central Africa,26897,2014,165,483,High
+P0313,Instagram,#Tech,Carousel,Latin America,2445,120,23,29,High
+P0314,Instagram,#Sports,Carousel,Europe,118159,3353,248,506,Medium
+P0315,Instagram,#Sports,Live,Southern Africa,7431,475,94,109,High
+P0316,Instagram,#Business,Carousel,Europe,25390,1896,226,222,High
+P0317,Instagram,#Startup,Story,Central Africa,2688,200,14,55,High
+P0318,YouTube,#Fitness,Live,Asia,17180,385,19,66,Low
+P0319,Instagram,#Food,Live,Europe,3143,32,4,6,Low
+P0320,LinkedIn,#Business,Carousel,North America,681,29,4,6,Medium
+P0321,LinkedIn,#Startup,Video,Southern Africa,1675,21,1,8,Low
+P0322,Facebook,#Finance,Video,West Africa,3910,53,6,15,Low
+P0323,Instagram,#Travel,Reel,North America,40007,1962,329,506,Medium
+P0324,Facebook,#Food,Video,Asia,4898,65,3,26,Low
+P0325,X,#Fitness,Image,Asia,1885,24,3,8,Low
+P0326,YouTube,#Fitness,Video,Europe,37806,993,76,238,Medium
+P0327,X,#Entertainment,Image,Europe,4092,149,24,26,Medium
+P0328,Facebook,#Sports,Video,North America,56335,1508,133,329,Medium
+P0329,Facebook,#Fashion,Poll,Europe,32562,344,47,109,Low
+P0330,Instagram,#Food,Live,Europe,4117,130,17,34,Medium
+P0331,YouTube,#Health,Live,Southern Africa,9329,224,13,38,Low
+P0332,TikTok,#News,Live,Europe,880,2,0,1,Low
+P0333,YouTube,#Health,Live,Central Africa,52862,1930,345,403,Medium
+P0334,X,#Lifestyle,Image,North America,6224,212,12,37,Medium
+P0335,TikTok,#Travel,Live,West Africa,12493,36,4,9,Low
+P0336,Facebook,#Travel,Video,Central Africa,8648,479,48,100,High
+P0337,TikTok,#News,Live,Central Africa,18491,162,22,15,Low
+P0338,YouTube,#Sports,Live,Central Africa,40726,1448,261,267,Medium
+P0339,TikTok,#Lifestyle,Story,Southern Africa,4813,325,26,52,High
+P0340,LinkedIn,#Beauty,Image,Central Africa,1971,77,9,15,Medium
+P0341,TikTok,#Sports,Live,Central Africa,102593,7911,872,1577,High
+P0342,LinkedIn,#Fitness,Text,Asia,22590,549,43,153,Medium
+P0343,X,#Lifestyle,Text,Southern Africa,1805,72,10,9,Medium
+P0344,Facebook,#Beauty,Video,Asia,4245,12,1,3,Low
+P0345,X,#Music,Text,Central Africa,1767,31,2,7,Low
+P0346,X,#Music,Video,Southern Africa,18072,525,86,44,Medium
+P0347,LinkedIn,#Beauty,Text,Latin America,8496,322,36,108,Medium
+P0348,Instagram,#Fitness,Story,West Africa,11957,171,24,16,Low
+P0349,Facebook,#Sports,Image,Europe,1264,36,6,10,Medium
+P0350,TikTok,#Travel,Video,West Africa,8456,542,75,113,High
+P0351,Facebook,#Food,Video,Europe,8806,171,17,56,Low
+P0352,TikTok,#Travel,Story,Southern Africa,34111,1127,78,287,Medium
+P0353,Facebook,#Startup,Poll,Latin America,2673,47,3,19,Low
+P0354,Facebook,#Startup,Image,North America,74133,2237,220,380,Medium
+P0355,Facebook,#Travel,Video,West Africa,69337,1032,134,132,Low
+P0356,Facebook,#Lifestyle,Video,North America,28474,357,52,117,Low
+P0357,YouTube,#Business,Video,Central Africa,9299,124,8,49,Low
+P0358,X,#Art,Video,East Africa,1573,16,2,5,Low
+P0359,Facebook,#Health,Video,North America,19800,272,39,83,Low
+P0360,Facebook,#Finance,Image,Europe,44766,1608,91,377,Medium
+P0361,LinkedIn,#Beauty,Text,East Africa,1507,55,4,10,Medium
+P0362,TikTok,#Entertainment,Story,West Africa,14773,1733,280,205,High
+P0363,TikTok,#Food,Video,West Africa,10173,634,92,112,High
+P0364,TikTok,#Sports,Video,East Africa,45134,3705,703,874,High
+P0365,YouTube,#Lifestyle,Live,Latin America,5913,287,28,40,Medium
+P0366,Instagram,#Tech,Reel,Central Africa,6391,123,18,29,Low
+P0367,YouTube,#News,Live,Europe,10674,970,96,357,High
+P0368,YouTube,#Travel,Video,West Africa,38948,1418,98,309,Medium
+P0369,Instagram,#News,Story,Europe,8435,408,45,93,Medium
+P0370,X,#Food,Text,North Africa,524,6,1,2,Low
+P0371,YouTube,#Travel,Video,East Africa,7642,343,59,51,Medium
+P0372,Instagram,#Travel,Story,Central Africa,17161,1311,211,134,High
+P0373,Instagram,#Entertainment,Image,Middle East,17685,1016,59,283,High
+P0374,Instagram,#News,Image,Central Africa,3127,196,13,77,High
+P0375,TikTok,#Startup,Video,Central Africa,14298,229,18,75,Low
+P0376,TikTok,#Lifestyle,Story,Latin America,10042,1090,148,191,High
+P0377,LinkedIn,#Startup,Poll,North America,1155,64,6,15,High
+P0378,Instagram,#Fashion,Live,Europe,14177,808,68,291,High
+P0379,Instagram,#Sports,Live,Europe,18148,410,41,103,Medium
+P0380,YouTube,#Startup,Live,Europe,153471,9702,1376,823,High
+P0381,Facebook,#Entertainment,Live,Southern Africa,7910,134,12,40,Low
+P0382,LinkedIn,#Finance,Video,North America,6949,42,6,14,Low
+P0383,X,#Fashion,Image,Latin America,2294,68,6,15,Medium
+P0384,Facebook,#Fashion,Text,North America,11094,149,8,49,Low
+P0385,Instagram,#Education,Live,North America,3306,47,4,8,Low
+P0386,LinkedIn,#Beauty,Text,North Africa,347,16,0,7,Medium
+P0387,YouTube,#Fitness,Video,East Africa,5923,193,16,32,Medium
+P0388,LinkedIn,#Gaming,Video,East Africa,2058,77,10,25,Medium
+P0389,TikTok,#Startup,Live,North America,58895,3196,188,965,High
+P0390,X,#Food,Poll,Central Africa,10005,29,3,8,Low
+P0391,Facebook,#Entertainment,Live,Europe,3237,141,19,34,Medium
+P0392,TikTok,#Health,Story,East Africa,7296,219,15,51,Medium
+P0393,Facebook,#Education,Image,Asia,2574,84,10,26,Medium
+P0394,YouTube,#Education,Live,Central Africa,24077,2090,176,303,High
+P0395,TikTok,#Beauty,Video,Latin America,36101,3497,427,583,High
+P0396,Facebook,#Finance,Live,Southern Africa,4933,143,25,17,Medium
+P0397,X,#Tech,Poll,North America,12118,360,56,102,Medium
+P0398,Instagram,#Sports,Carousel,Central Africa,20693,1350,213,111,High
+P0399,Facebook,#News,Live,North Africa,6100,145,22,42,Medium
+P0400,Facebook,#Food,Live,North Africa,4554,143,20,39,Medium
+P0401,Instagram,#News,Reel,Central Africa,73002,5319,773,1216,High
+P0402,LinkedIn,#Education,Text,Central Africa,2949,52,8,5,Low
+P0403,X,#News,Image,Europe,2675,7,0,3,Low
+P0404,TikTok,#Health,Video,East Africa,25416,1692,147,378,High
+P0405,LinkedIn,#Music,Poll,Central Africa,530,17,2,5,Medium
+P0406,X,#Lifestyle,Poll,East Africa,641,2,0,1,Low
+P0407,Instagram,#Tech,Reel,Middle East,8389,221,11,43,Medium
+P0408,X,#News,Text,Southern Africa,1249,25,4,6,Low
+P0409,TikTok,#News,Video,Europe,12077,362,37,46,Medium
+P0410,LinkedIn,#Entertainment,Carousel,Europe,5260,88,14,17,Low
+P0411,YouTube,#Art,Video,Latin America,38493,910,144,115,Medium
+P0412,YouTube,#Health,Live,North America,82619,3937,519,796,Medium
+P0413,TikTok,#Tech,Story,Asia,1233,93,13,12,High
+P0414,X,#Lifestyle,Poll,East Africa,9823,240,12,64,Medium
+P0415,TikTok,#Sports,Live,North America,6109,1110,151,139,High
+P0416,Instagram,#Travel,Carousel,Latin America,18182,121,19,9,Low
+P0417,TikTok,#Lifestyle,Story,Europe,20348,924,108,143,Medium
+P0418,YouTube,#Beauty,Live,Central Africa,13834,530,36,150,Medium
+P0419,TikTok,#Food,Story,Asia,33469,1446,185,489,Medium
+P0420,LinkedIn,#Food,Text,North America,3602,222,16,54,High
+P0421,YouTube,#Travel,Video,Asia,36324,1364,139,414,Medium
+P0422,TikTok,#Entertainment,Live,North Africa,173547,21838,3452,2033,High
+P0423,TikTok,#Gaming,Live,East Africa,12841,1466,166,220,High
+P0424,TikTok,#Art,Live,Europe,14028,1540,267,245,High
+P0425,Facebook,#Music,Live,Middle East,25244,977,161,170,Medium
+P0426,X,#Travel,Text,North America,2008,14,1,5,Low
+P0427,Instagram,#Business,Carousel,Asia,7262,543,91,154,High
+P0428,X,#News,Poll,Southern Africa,14884,476,47,79,Medium
+P0429,TikTok,#Entertainment,Video,North America,34664,2944,489,623,High
+P0430,X,#Fashion,Image,Central Africa,12769,339,31,88,Medium
+P0431,LinkedIn,#Food,Image,North Africa,5034,91,7,37,Low
+P0432,YouTube,#Fitness,Video,West Africa,87190,3833,536,912,Medium
+P0433,YouTube,#Art,Video,Europe,12649,763,78,246,High
+P0434,X,#Finance,Image,Europe,2705,94,12,13,Medium
+P0435,TikTok,#Health,Live,Asia,27970,1517,108,523,High
+P0436,TikTok,#Finance,Story,Europe,21316,780,138,216,Medium
+P0437,TikTok,#Music,Video,North America,16042,872,155,248,High
+P0438,Facebook,#Music,Poll,Central Africa,4922,38,3,12,Low
+P0439,YouTube,#Beauty,Video,West Africa,4194,188,19,59,Medium
+P0440,Facebook,#Fashion,Live,Central Africa,5517,90,16,22,Low
+P0441,X,#Art,Image,Europe,898,25,1,10,Medium
+P0442,TikTok,#Business,Story,Europe,106671,3026,312,857,Medium
+P0443,YouTube,#News,Live,Asia,57862,4139,261,1358,High
+P0444,TikTok,#Lifestyle,Video,West Africa,11301,31,2,12,Low
+P0445,Instagram,#Business,Carousel,Latin America,37814,1884,274,591,High
+P0446,YouTube,#Fashion,Live,Europe,12593,615,38,200,Medium
+P0447,LinkedIn,#Tech,Carousel,Southern Africa,3142,9,1,2,Low
+P0448,Facebook,#Fashion,Text,Central Africa,2433,74,11,15,Medium
+P0449,TikTok,#Beauty,Story,North America,105477,7780,1199,755,High
+P0450,Facebook,#Lifestyle,Image,North America,18111,312,37,57,Low
+P0451,TikTok,#Beauty,Story,Southern Africa,49610,4111,327,609,High
+P0452,X,#Startup,Poll,North America,1705,32,4,7,Low
+P0453,YouTube,#Music,Live,Middle East,13913,982,104,156,High
+P0454,TikTok,#Music,Live,West Africa,26282,1428,230,404,High
+P0455,TikTok,#Fitness,Video,Asia,32980,1568,206,493,Medium
+P0456,TikTok,#Entertainment,Story,North America,3399,10,0,4,Low
+P0457,LinkedIn,#Art,Text,West Africa,194,2,0,1,Low
+P0458,Facebook,#Fashion,Live,North America,6522,114,15,19,Low
+P0459,X,#Art,Poll,Latin America,4666,36,4,6,Low
+P0460,Facebook,#Startup,Text,Central Africa,2966,7,1,3,Low
+P0461,Facebook,#Art,Image,West Africa,4074,48,3,8,Low
+P0462,TikTok,#Business,Story,North America,4830,381,30,148,High
+P0463,LinkedIn,#Health,Text,Europe,1199,49,4,14,Medium
+P0464,Instagram,#Tech,Reel,West Africa,4425,300,24,116,High
+P0465,Facebook,#Sports,Text,Europe,7010,281,19,71,Medium
+P0466,YouTube,#Health,Live,Central Africa,26354,1126,103,293,Medium
+P0467,YouTube,#Startup,Video,Asia,10286,403,23,108,Medium
+P0468,LinkedIn,#Lifestyle,Carousel,Europe,1612,7,0,2,Low
+P0469,TikTok,#Entertainment,Live,Europe,11974,64,7,18,Low
+P0470,Facebook,#Startup,Poll,Central Africa,2168,52,7,9,Medium
+P0471,Instagram,#Sports,Carousel,Europe,6484,105,8,23,Low
+P0472,Facebook,#Travel,Video,Southern Africa,9854,335,45,76,Medium
+P0473,TikTok,#Music,Video,North America,58763,5165,649,1657,High
+P0474,TikTok,#Tech,Story,Europe,37852,1198,159,295,Medium
+P0475,Instagram,#Fitness,Reel,Europe,17232,48,3,17,Low
+P0476,Instagram,#Food,Live,Middle East,5822,339,17,61,High
+P0477,Instagram,#Education,Live,North America,5538,402,74,65,High
+P0478,Facebook,#Tech,Image,Middle East,1530,55,4,19,Medium
+P0479,Facebook,#Sports,Live,North Africa,8320,343,31,74,Medium
+P0480,Instagram,#Education,Reel,Central Africa,17776,1132,157,138,High
+P0481,Instagram,#Gaming,Image,East Africa,4293,143,16,20,Medium
+P0482,TikTok,#News,Story,North Africa,32748,3629,393,922,High
+P0483,Facebook,#Travel,Video,North Africa,18070,527,43,142,Medium
+P0484,Instagram,#Beauty,Live,East Africa,6878,209,25,42,Medium
+P0485,TikTok,#News,Story,Central Africa,8033,499,59,97,High
+P0486,Instagram,#Tech,Story,North Africa,5851,17,2,4,Low
+P0487,Facebook,#Fashion,Poll,Central Africa,8325,131,9,32,Low
+P0488,Instagram,#Beauty,Image,West Africa,1933,98,11,27,High
+P0489,Facebook,#Finance,Image,Latin America,1329,67,12,9,Medium
+P0490,Facebook,#Finance,Video,Central Africa,9985,319,50,88,Medium
+P0491,YouTube,#Fitness,Live,East Africa,3220,145,10,41,Medium
+P0492,YouTube,#Finance,Live,Central Africa,7678,469,40,171,High
+P0493,YouTube,#Tech,Live,Central Africa,4467,119,14,39,Medium
+P0494,Instagram,#Health,Reel,West Africa,869,17,2,6,Low
+P0495,X,#Finance,Text,Middle East,1294,31,3,11,Medium
+P0496,Facebook,#Fitness,Video,Central Africa,1190,70,5,22,High
+P0497,Instagram,#Startup,Story,East Africa,23568,2905,224,718,High
+P0498,Facebook,#Entertainment,Video,Central Africa,4985,79,6,26,Low
+P0499,Instagram,#Art,Reel,Central Africa,3395,231,27,66,High
+P0500,Facebook,#Fashion,Live,North America,1233,18,3,4,Low
+P0501,YouTube,#News,Live,Latin America,20331,846,147,140,Medium
+P0502,X,#Gaming,Image,East Africa,4439,76,8,26,Low
+P0503,LinkedIn,#Travel,Poll,Asia,2055,117,18,23,High
+P0504,Facebook,#Food,Poll,Latin America,59820,1439,134,444,Medium
+P0505,Facebook,#Business,Image,North America,2119,86,9,19,Medium
+P0506,X,#News,Poll,Asia,6138,101,16,21,Low
+P0507,Instagram,#Finance,Carousel,North America,3853,80,13,23,Medium
+P0508,X,#Travel,Poll,North America,1666,42,6,10,Medium
+P0509,Facebook,#Education,Poll,West Africa,6229,144,18,25,Medium
+P0510,TikTok,#Food,Video,Southern Africa,6152,537,48,102,High
+P0511,TikTok,#Gaming,Live,Latin America,12816,493,41,181,Medium
+P0512,X,#Fashion,Image,North America,1913,12,1,4,Low
+P0513,TikTok,#Health,Video,Europe,102103,5506,808,1320,High
+P0514,Instagram,#Health,Carousel,East Africa,11318,704,101,99,High
+P0515,Instagram,#Art,Carousel,North Africa,39977,3377,385,525,High
+P0516,TikTok,#Lifestyle,Live,West Africa,4030,39,4,11,Low
+P0517,Instagram,#Finance,Story,North America,4420,280,18,44,High
+P0518,YouTube,#Gaming,Video,Southern Africa,7000,298,39,44,Medium
+P0519,TikTok,#Education,Video,North Africa,23444,1451,242,241,High
+P0520,X,#Startup,Video,North America,4709,66,7,24,Low
+P0521,X,#Entertainment,Poll,West Africa,5392,83,9,21,Low
+P0522,Instagram,#Fitness,Live,North Africa,21680,1608,85,420,High
+P0523,TikTok,#Art,Live,Central Africa,8748,387,35,93,Medium
+P0524,Facebook,#Beauty,Text,East Africa,2938,7,0,4,Low
+P0525,TikTok,#Gaming,Live,Southern Africa,4705,189,16,26,Medium
+P0526,Instagram,#News,Story,Europe,18002,1432,241,183,High
+P0527,LinkedIn,#Lifestyle,Text,Central Africa,662,2,0,1,Low
+P0528,LinkedIn,#Fashion,Poll,Central Africa,936,9,1,4,Low
+P0529,YouTube,#Gaming,Live,Asia,21240,649,119,165,Medium
+P0530,Instagram,#Music,Story,Central Africa,3615,250,36,75,High
+P0531,YouTube,#Lifestyle,Video,North America,28723,1394,113,370,Medium
+P0532,YouTube,#Startup,Live,East Africa,45406,2648,204,635,High
+P0533,Instagram,#Startup,Reel,Central Africa,3796,223,13,81,High
+P0534,YouTube,#Business,Live,Central Africa,10389,183,13,44,Low
+P0535,TikTok,#Health,Story,West Africa,3582,167,25,22,Medium
+P0536,TikTok,#Fashion,Story,West Africa,9712,1873,287,268,High
+P0537,Facebook,#News,Live,Southern Africa,6628,348,60,78,High
+P0538,TikTok,#Tech,Video,West Africa,32037,1088,91,374,Medium
+P0539,TikTok,#Gaming,Live,Asia,57044,4784,870,767,High
+P0540,X,#Travel,Video,Latin America,4407,122,16,16,Medium
+P0541,LinkedIn,#Gaming,Poll,Southern Africa,6984,329,58,32,Medium
+P0542,Facebook,#Entertainment,Text,North America,1003,17,2,6,Low
+P0543,X,#Beauty,Video,West Africa,21251,485,67,113,Medium
+P0544,LinkedIn,#Food,Poll,Asia,3371,85,16,20,Medium
+P0545,TikTok,#Health,Story,Central Africa,21501,661,104,102,Medium
+P0546,Facebook,#Education,Text,Southern Africa,345,10,1,3,Medium
+P0547,Instagram,#Startup,Image,Middle East,31559,1322,180,394,Medium
+P0548,TikTok,#Business,Video,Latin America,21995,1825,151,330,High
+P0549,YouTube,#News,Live,Central Africa,59969,3945,625,423,High
+P0550,Instagram,#Education,Story,Asia,9667,1303,113,478,High
+P0551,Facebook,#Gaming,Live,Central Africa,51045,913,56,160,Low
+P0552,TikTok,#Art,Live,Central Africa,84326,8774,531,3415,High
+P0553,TikTok,#Tech,Story,North Africa,23081,1473,204,435,High
+P0554,LinkedIn,#Fitness,Text,North America,712,28,3,4,Medium
+P0555,TikTok,#News,Live,West Africa,89872,4740,891,1266,High
+P0556,Instagram,#Startup,Image,Latin America,20136,62,5,13,Low
+P0557,Instagram,#Gaming,Story,Europe,18229,707,93,148,Medium
+P0558,Facebook,#Food,Text,Southern Africa,4750,204,15,53,Medium
+P0559,Facebook,#Health,Live,West Africa,45425,1557,82,295,Medium
+P0560,Facebook,#Gaming,Live,East Africa,2081,102,16,11,Medium
+P0561,TikTok,#Travel,Live,Central Africa,115320,4462,731,1109,Medium
+P0562,Instagram,#Gaming,Image,Europe,1211,31,5,8,Medium
+P0563,X,#Food,Image,North America,1893,74,7,28,Medium
+P0564,Facebook,#Entertainment,Poll,Europe,2258,63,4,12,Medium
+P0565,YouTube,#Business,Video,Central Africa,1135,47,7,12,Medium
+P0566,YouTube,#Gaming,Live,Central Africa,12736,446,35,137,Medium
+P0567,YouTube,#Sports,Live,West Africa,5980,222,16,77,Medium
+P0568,TikTok,#Fitness,Video,Central Africa,66872,6036,585,959,High
+P0569,Instagram,#Health,Story,Europe,28601,2255,219,652,High
+P0570,Facebook,#Tech,Text,East Africa,3364,70,8,23,Medium
+P0571,Instagram,#Business,Story,North Africa,2873,191,32,17,High
+P0572,X,#Sports,Poll,Europe,2790,21,2,7,Low
+P0573,Facebook,#Tech,Image,Asia,12369,251,47,48,Low
+P0574,YouTube,#Music,Live,Central Africa,8752,240,18,36,Medium
+P0575,X,#Art,Text,West Africa,2241,70,9,15,Medium
+P0576,Facebook,#Gaming,Image,West Africa,12808,37,5,9,Low
+P0577,LinkedIn,#News,Video,West Africa,29985,1246,80,255,Medium
+P0578,Facebook,#Travel,Poll,North Africa,3181,121,7,20,Medium
+P0579,X,#Fitness,Text,East Africa,798,8,1,2,Low
+P0580,Instagram,#Tech,Carousel,Southern Africa,2492,36,4,12,Low
+P0581,Facebook,#Education,Poll,West Africa,3969,179,21,35,Medium
+P0582,Facebook,#Beauty,Live,Central Africa,28752,689,65,177,Medium
+P0583,TikTok,#Lifestyle,Live,West Africa,69809,5800,920,638,High
+P0584,Instagram,#Lifestyle,Carousel,Europe,1591,48,6,14,Medium
+P0585,LinkedIn,#Lifestyle,Poll,East Africa,1765,10,0,4,Low
+P0586,Facebook,#Sports,Video,Asia,8613,423,26,168,High
+P0587,TikTok,#Finance,Live,North Africa,6217,540,43,79,High
+P0588,Instagram,#Lifestyle,Reel,West Africa,3485,204,32,64,High
+P0589,TikTok,#Fitness,Live,North America,13661,218,35,67,Low
+P0590,TikTok,#Finance,Live,West Africa,13351,576,87,158,Medium
+P0591,LinkedIn,#Lifestyle,Video,Central Africa,1791,89,15,20,Medium
+P0592,Facebook,#Food,Live,East Africa,2432,78,4,17,Medium
+P0593,Instagram,#Entertainment,Live,Central Africa,14700,938,162,74,High
+P0594,Facebook,#Startup,Poll,North America,4149,137,22,20,Medium
+P0595,TikTok,#Fitness,Story,North Africa,3592,283,54,62,High
+P0596,Instagram,#Education,Live,West Africa,2878,181,31,25,High
+P0597,YouTube,#Finance,Live,Europe,7581,54,4,10,Low
+P0598,Facebook,#Fashion,Poll,Middle East,25300,968,108,174,Medium
+P0599,LinkedIn,#Travel,Video,West Africa,2930,166,20,38,High
+P0600,Facebook,#Music,Image,Latin America,4101,83,12,25,Low
+P0601,Facebook,#Beauty,Image,East Africa,6938,160,18,46,Medium
+P0602,YouTube,#Travel,Live,West Africa,16177,360,53,82,Medium
+P0603,LinkedIn,#Music,Text,West Africa,313,10,0,4,Medium
+P0604,YouTube,#Fitness,Video,Middle East,33204,1899,226,501,High
+P0605,LinkedIn,#Beauty,Image,North America,2501,8,1,1,Low
+P0606,X,#Fashion,Text,Europe,1237,18,1,4,Low
+P0607,X,#Fashion,Text,Europe,4335,135,23,28,Medium
+P0608,TikTok,#Fitness,Story,Central Africa,5087,387,57,94,High
+P0609,YouTube,#Food,Live,Central Africa,16003,868,145,69,Medium
+P0610,Facebook,#Tech,Live,North America,36376,1108,187,196,Medium
+P0611,Facebook,#Lifestyle,Poll,Southern Africa,297,5,0,2,Low
+P0612,YouTube,#Startup,Video,Southern Africa,64067,2115,369,199,Medium
+P0613,LinkedIn,#Education,Video,East Africa,2132,96,11,33,Medium
+P0614,LinkedIn,#Music,Carousel,East Africa,4051,197,33,28,Medium
+P0615,Instagram,#Health,Carousel,West Africa,60838,4504,329,1165,High
+P0616,YouTube,#Entertainment,Video,Europe,19137,275,29,96,Low
+P0617,YouTube,#News,Live,West Africa,117459,3264,593,650,Medium
+P0618,Instagram,#Business,Reel,West Africa,3785,513,29,120,High
+P0619,TikTok,#Food,Live,Europe,45463,6494,564,1173,High
+P0620,TikTok,#Fashion,Live,Central Africa,5751,18,1,4,Low
+P0621,YouTube,#Music,Live,North Africa,3513,11,1,2,Low
+P0622,Facebook,#Education,Text,Middle East,1659,64,7,15,Medium
+P0623,LinkedIn,#Art,Carousel,North Africa,1170,44,5,8,Medium
+P0624,Facebook,#Music,Poll,North America,2654,68,8,24,Medium
+P0625,LinkedIn,#Tech,Video,Central Africa,1248,4,0,2,Low
+P0626,Instagram,#Travel,Carousel,Middle East,20145,1974,306,141,High
+P0627,X,#Travel,Text,North America,2329,38,2,12,Low
+P0628,TikTok,#Fitness,Story,Latin America,17364,1588,197,464,High
+P0629,Facebook,#Beauty,Poll,North America,2189,34,4,12,Low
+P0630,X,#News,Image,North America,3155,46,6,11,Low
+P0631,LinkedIn,#Gaming,Text,North America,1426,56,3,17,Medium
+P0632,X,#Fitness,Text,North Africa,6236,106,9,21,Low
+P0633,TikTok,#Sports,Live,North America,28519,1462,168,444,High
+P0634,Instagram,#News,Live,Asia,28343,791,116,113,Medium
+P0635,TikTok,#Travel,Video,Asia,29059,1978,157,702,High
+P0636,TikTok,#Beauty,Video,Southern Africa,27799,2982,284,790,High
+P0637,YouTube,#Food,Live,Europe,11071,328,52,84,Medium
+P0638,YouTube,#News,Video,Central Africa,6578,365,50,76,High
+P0639,YouTube,#Tech,Live,West Africa,11713,402,65,93,Medium
+P0640,X,#Sports,Video,Central Africa,1778,5,0,2,Low
+P0641,YouTube,#Education,Video,West Africa,110665,2769,351,560,Medium
+P0642,X,#Music,Video,North America,6879,371,52,107,High
+P0643,TikTok,#Health,Story,East Africa,3842,380,59,108,High
+P0644,Instagram,#Education,Live,Middle East,63212,2667,240,689,Medium
+P0645,Facebook,#Startup,Poll,North Africa,1033,27,4,3,Medium
+P0646,X,#Entertainment,Poll,West Africa,4905,118,14,20,Medium
+P0647,TikTok,#Beauty,Live,Central Africa,33898,108,13,34,Low
+P0648,Facebook,#Business,Video,Latin America,2680,87,11,13,Medium
+P0649,YouTube,#Art,Live,Southern Africa,13515,704,76,97,Medium
+P0650,TikTok,#Business,Video,West Africa,186399,8063,1296,1838,Medium
+P0651,Instagram,#Sports,Live,North America,8205,393,42,126,Medium
+P0652,X,#Lifestyle,Video,Europe,10699,52,7,18,Low
+P0653,YouTube,#Finance,Live,North Africa,30262,766,102,103,Medium
+P0654,Instagram,#Startup,Story,West Africa,1252,4,0,1,Low
+P0655,X,#Fitness,Video,Asia,615,6,0,2,Low
+P0656,Instagram,#Food,Story,North Africa,982,17,1,7,Low
+P0657,X,#Travel,Text,Central Africa,1158,24,2,9,Medium
+P0658,Instagram,#Beauty,Story,Europe,4111,339,58,82,High
+P0659,Facebook,#Art,Image,Asia,844,27,2,10,Medium
+P0660,Instagram,#Travel,Reel,Europe,4240,168,9,65,Medium
+P0661,Instagram,#Beauty,Image,North America,1547,25,2,9,Low
+P0662,X,#Entertainment,Video,East Africa,10041,91,13,15,Low
+P0663,TikTok,#Food,Live,Central Africa,29126,1633,233,252,High
+P0664,TikTok,#Education,Story,West Africa,21104,286,21,59,Low
+P0665,Instagram,#Travel,Reel,North Africa,22427,1966,350,337,High
+P0666,YouTube,#Beauty,Video,Asia,15981,672,73,134,Medium
+P0667,X,#Travel,Image,Europe,2224,50,2,11,Low
+P0668,LinkedIn,#Gaming,Poll,Europe,8104,272,49,64,Medium
+P0669,Instagram,#Lifestyle,Live,West Africa,5770,431,37,119,High
+P0670,Instagram,#Finance,Reel,West Africa,42511,2863,219,422,High
+P0671,TikTok,#Education,Story,Europe,76611,6414,847,1667,High
+P0672,Facebook,#Gaming,Poll,Europe,9381,109,10,37,Low
+P0673,LinkedIn,#Food,Carousel,Latin America,2274,151,14,43,High
+P0674,YouTube,#Gaming,Video,West Africa,53840,1098,202,163,Low
+P0675,Facebook,#Fitness,Poll,North Africa,4745,14,1,3,Low
+P0676,Instagram,#Health,Carousel,Southern Africa,10061,380,60,75,Medium
+P0677,LinkedIn,#Education,Video,Latin America,2448,102,9,19,Medium
+P0678,Facebook,#Business,Text,Middle East,1994,34,5,6,Low
+P0679,TikTok,#Beauty,Story,Europe,21745,1659,265,243,High
+P0680,Instagram,#Entertainment,Image,West Africa,10509,675,48,124,High
+P0681,TikTok,#Sports,Live,North America,9639,440,54,50,Medium
+P0682,TikTok,#Lifestyle,Story,Central Africa,12047,398,45,108,Medium
+P0683,TikTok,#Gaming,Video,Europe,27421,218,40,50,Low
+P0684,Facebook,#Finance,Text,West Africa,7694,60,10,11,Low
+P0685,Facebook,#Gaming,Live,Central Africa,3767,51,6,7,Low
+P0686,Instagram,#Health,Reel,East Africa,37980,1651,268,153,Medium
+P0687,Instagram,#Entertainment,Story,Asia,4414,310,39,100,High
+P0688,LinkedIn,#Music,Poll,Central Africa,2050,109,12,22,Medium
+P0689,YouTube,#Travel,Video,Middle East,4510,166,23,37,Medium
+P0690,Facebook,#Lifestyle,Image,East Africa,22120,904,118,137,Medium
+P0691,Instagram,#Beauty,Story,Central Africa,6265,496,28,178,High
+P0692,X,#Gaming,Text,North Africa,1698,35,5,12,Medium
+P0693,Instagram,#Tech,Image,Asia,5383,253,30,32,Medium
+P0694,Instagram,#Health,Story,North America,20368,843,144,63,Medium
+P0695,LinkedIn,#Education,Poll,East Africa,2268,89,7,29,Medium
+P0696,Facebook,#Music,Live,Southern Africa,2959,74,14,21,Medium
+P0697,YouTube,#Fashion,Video,Central Africa,6929,58,9,5,Low
+P0698,Facebook,#Education,Image,Southern Africa,4882,157,11,50,Medium
+P0699,YouTube,#Fashion,Video,Europe,5046,97,10,23,Low
+P0700,Instagram,#Food,Live,Central Africa,3406,281,46,28,High
+P0701,Instagram,#Education,Image,Southern Africa,5285,262,18,92,High
+P0702,Instagram,#Education,Story,Europe,4272,131,12,39,Medium
+P0703,TikTok,#Entertainment,Story,Europe,10412,467,82,124,Medium
+P0704,X,#Entertainment,Text,Central Africa,2851,32,5,4,Low
+P0705,Instagram,#Health,Live,Southern Africa,5861,387,49,67,High
+P0706,Facebook,#Food,Text,Asia,150,2,0,1,Low
+P0707,X,#Art,Text,North Africa,1129,26,4,3,Low
+P0708,X,#Business,Image,North America,17347,499,80,130,Medium
+P0709,Instagram,#Finance,Story,East Africa,518,24,1,10,Medium
+P0710,Facebook,#News,Video,Europe,3274,9,1,3,Low
+P0711,LinkedIn,#Beauty,Carousel,Europe,2454,68,5,11,Medium
+P0712,YouTube,#Fitness,Video,Central Africa,71947,224,21,42,Low
+P0713,X,#Tech,Text,Europe,70396,618,70,172,Low
+P0714,LinkedIn,#Fitness,Video,East Africa,3985,55,3,18,Low
+P0715,X,#Art,Text,Southern Africa,12331,430,70,60,Medium
+P0716,TikTok,#Tech,Live,Central Africa,23659,1269,131,169,Medium
+P0717,Facebook,#Business,Video,North America,1402,15,1,6,Low
+P0718,TikTok,#Lifestyle,Video,North America,11575,568,58,165,Medium
+P0719,YouTube,#Tech,Live,Asia,34765,1595,259,459,Medium
+P0720,LinkedIn,#Lifestyle,Poll,Europe,6604,282,38,40,Medium
+P0721,Facebook,#Sports,Poll,Asia,11288,36,3,11,Low
+P0722,Instagram,#News,Image,Europe,2592,172,27,15,High
+P0723,TikTok,#Finance,Live,Southern Africa,42676,4038,304,1235,High
+P0724,LinkedIn,#Finance,Carousel,Central Africa,8663,355,30,74,Medium
+P0725,TikTok,#Startup,Story,West Africa,57994,5810,884,779,High
+P0726,TikTok,#Music,Story,West Africa,14838,1214,147,358,High
+P0727,Instagram,#Art,Image,Europe,6097,54,6,13,Low
+P0728,TikTok,#Education,Live,East Africa,60663,2467,389,743,Medium
+P0729,Facebook,#Music,Image,East Africa,2912,60,5,12,Low
+P0730,Facebook,#Food,Video,West Africa,19176,615,57,109,Medium
+P0731,Instagram,#Music,Carousel,North America,53335,3843,258,618,High
+P0732,TikTok,#Business,Video,East Africa,105767,3842,751,1050,Medium
+P0733,TikTok,#Sports,Video,Latin America,8695,922,91,194,High
+P0734,Instagram,#Education,Reel,Europe,8099,684,121,183,High
+P0735,TikTok,#Music,Live,Latin America,14748,1038,159,111,High
+P0736,YouTube,#Lifestyle,Video,Latin America,20528,1034,132,252,Medium
+P0737,TikTok,#Entertainment,Live,Central Africa,107426,14386,2719,3318,High
+P0738,Instagram,#Gaming,Story,West Africa,8255,464,73,137,High
+P0739,Instagram,#Fashion,Story,Central Africa,14205,925,139,102,High
+P0740,Instagram,#Food,Carousel,North Africa,825,37,7,11,Medium
+P0741,TikTok,#Music,Story,North America,11038,508,66,110,Medium
+P0742,TikTok,#Finance,Live,Central Africa,17829,1733,304,333,High
+P0743,X,#Art,Image,Asia,2252,56,5,11,Medium
+P0744,TikTok,#Sports,Story,West Africa,6228,800,152,167,High
+P0745,Facebook,#Travel,Image,Central Africa,4548,78,5,21,Low
+P0746,Facebook,#Sports,Text,Asia,15004,318,51,64,Low
+P0747,Instagram,#Health,Reel,Central Africa,5467,335,23,104,High
+P0748,Instagram,#Finance,Image,West Africa,2458,110,12,24,Medium
+P0749,X,#Fitness,Image,Southern Africa,1571,43,3,8,Medium
+P0750,X,#Music,Text,Latin America,9502,30,3,5,Low
+P0751,Instagram,#Business,Live,Asia,8410,508,51,106,High
+P0752,Instagram,#Tech,Story,Latin America,9282,708,88,131,High
+P0753,Instagram,#Travel,Carousel,Middle East,1247,86,7,23,High
+P0754,Facebook,#Fashion,Live,East Africa,1596,40,3,7,Medium
+P0755,YouTube,#Travel,Live,Europe,14655,831,57,250,High
+P0756,Instagram,#Music,Image,Latin America,20990,498,42,170,Medium
+P0757,Instagram,#Beauty,Carousel,Central Africa,12946,723,65,115,Medium
+P0758,LinkedIn,#Food,Text,Middle East,748,2,0,1,Low
+P0759,TikTok,#Business,Live,East Africa,6881,990,117,111,High
+P0760,Facebook,#Travel,Video,North Africa,28693,1066,132,151,Medium
+P0761,YouTube,#Tech,Live,Europe,11267,192,25,44,Low
+P0762,TikTok,#Entertainment,Live,North Africa,49560,3012,353,366,High
+P0763,TikTok,#Health,Live,Central Africa,5578,201,11,46,Medium
+P0764,TikTok,#Startup,Live,West Africa,9975,644,76,185,High
+P0765,LinkedIn,#Beauty,Text,Europe,751,10,1,4,Low
+P0766,TikTok,#Sports,Video,Central Africa,11637,1179,68,251,High
+P0767,TikTok,#Travel,Live,Southern Africa,7696,347,25,132,Medium
+P0768,TikTok,#Startup,Live,West Africa,6335,310,32,67,Medium
+P0769,TikTok,#News,Video,North America,21473,203,24,67,Low
+P0770,Facebook,#Music,Image,Asia,23452,867,81,239,Medium
+P0771,Instagram,#Music,Live,Asia,21280,1065,111,182,Medium
+P0772,Facebook,#Tech,Text,North Africa,3127,51,4,11,Low
+P0773,Facebook,#Art,Text,Europe,915,12,1,3,Low
+P0774,X,#Gaming,Poll,North Africa,5228,158,24,26,Medium
+P0775,TikTok,#Business,Live,Asia,53102,4316,464,886,High
+P0776,X,#Tech,Video,Central Africa,2816,61,7,8,Low
+P0777,Facebook,#Fashion,Video,North Africa,1611,73,13,20,Medium
+P0778,TikTok,#Beauty,Story,Central Africa,19969,2150,361,611,High
+P0779,YouTube,#Gaming,Live,Southern Africa,9007,43,6,14,Low
+P0780,X,#Lifestyle,Poll,Europe,2062,22,1,10,Low
+P0781,Instagram,#News,Carousel,Middle East,2383,91,5,20,Medium
+P0782,LinkedIn,#Fashion,Image,Asia,820,29,2,7,Medium
+P0783,Facebook,#Art,Text,West Africa,4635,112,18,15,Medium
+P0784,Facebook,#Food,Poll,Latin America,19020,724,70,103,Medium
+P0785,LinkedIn,#Startup,Image,Europe,2732,106,6,26,Medium
+P0786,Instagram,#Music,Reel,Latin America,56267,3842,438,1328,High
+P0787,X,#Lifestyle,Image,North America,6577,330,42,100,High
+P0788,Instagram,#Fitness,Carousel,Central Africa,29382,1969,334,208,High
+P0789,X,#Entertainment,Video,Southern Africa,46592,135,21,30,Low
+P0790,Facebook,#News,Live,Asia,450,13,0,6,Medium
+P0791,TikTok,#Startup,Story,Europe,1472,149,25,8,High
+P0792,Instagram,#Entertainment,Reel,Asia,4497,30,4,4,Low
+P0793,Instagram,#News,Story,Southern Africa,10311,352,25,127,Medium
+P0794,TikTok,#Lifestyle,Story,Europe,13733,1153,118,222,High
+P0795,TikTok,#Education,Story,Europe,10269,815,122,148,High
+P0796,Instagram,#Startup,Live,Asia,12791,683,43,183,High
+P0797,TikTok,#Startup,Live,North America,27312,2000,166,605,High
+P0798,TikTok,#Business,Live,Southern Africa,6845,217,16,46,Medium
+P0799,YouTube,#Business,Video,Central Africa,5797,435,68,75,High
+P0800,YouTube,#Startup,Video,West Africa,174911,7524,493,1924,Medium
+P0801,YouTube,#Beauty,Live,North Africa,46296,2254,225,598,Medium
+P0802,Instagram,#Fitness,Story,Europe,8549,530,40,83,High
+P0803,X,#Fashion,Poll,North America,58751,204,19,77,Low
+P0804,Facebook,#Tech,Text,Asia,5480,156,13,38,Medium
+P0805,TikTok,#Health,Live,Central Africa,22219,91,8,19,Low
+P0806,TikTok,#News,Live,North America,18573,2254,202,475,High
+P0807,YouTube,#Food,Live,Central Africa,27205,82,6,20,Low
+P0808,TikTok,#Startup,Video,West Africa,43478,3975,684,374,High
+P0809,Facebook,#Entertainment,Image,Central Africa,4237,142,8,29,Medium
+P0810,LinkedIn,#Finance,Text,Europe,2118,34,5,11,Low
+P0811,TikTok,#Food,Video,Asia,39498,1904,102,384,Medium
+P0812,TikTok,#Food,Story,North America,70201,4577,609,767,High
+P0813,LinkedIn,#Travel,Carousel,Central Africa,9212,748,66,179,High
+P0814,Facebook,#Fitness,Poll,Europe,2247,52,4,10,Low
+P0815,TikTok,#Entertainment,Live,Central Africa,125481,11092,832,2698,High
+P0816,X,#News,Poll,North America,3585,66,5,10,Low
+P0817,X,#Travel,Video,West Africa,4294,102,11,30,Medium
+P0818,Facebook,#Sports,Poll,Asia,9395,371,64,95,Medium
+P0819,Facebook,#Tech,Live,West Africa,3218,36,5,9,Low
+P0820,Instagram,#Business,Live,Southern Africa,19534,781,109,166,Medium
+P0821,TikTok,#Gaming,Story,Central Africa,7487,123,10,48,Low
+P0822,Facebook,#Entertainment,Live,East Africa,17277,1138,99,208,High
+P0823,Instagram,#Sports,Image,North America,8549,249,46,36,Medium
+P0824,YouTube,#Finance,Video,West Africa,14953,112,17,31,Low
+P0825,X,#Gaming,Video,North Africa,27507,894,88,175,Medium
+P0826,TikTok,#Tech,Live,East Africa,54390,5410,846,1527,High
+P0827,Facebook,#Finance,Poll,Asia,10243,269,43,42,Medium
+P0828,Instagram,#Beauty,Reel,North America,3645,221,28,73,High
+P0829,X,#Sports,Poll,Asia,5770,287,40,38,Medium
+P0830,Instagram,#Tech,Live,Europe,2047,161,28,41,High
+P0831,Facebook,#Lifestyle,Text,Latin America,11321,221,40,56,Low
+P0832,Facebook,#Beauty,Video,Asia,10586,624,44,104,High
+P0833,Instagram,#Business,Carousel,Southern Africa,68500,6361,1040,524,High
+P0834,YouTube,#Travel,Video,West Africa,25033,1064,184,316,Medium
+P0835,YouTube,#Finance,Live,North Africa,10997,409,39,142,Medium
+P0836,Facebook,#Gaming,Text,Southern Africa,7168,312,18,109,Medium
+P0837,YouTube,#Tech,Video,Central Africa,27768,1309,168,151,Medium
+P0838,LinkedIn,#Education,Video,Central Africa,2703,188,20,27,High
+P0839,Instagram,#Fitness,Story,West Africa,4751,340,20,136,High
+P0840,Facebook,#Music,Video,North America,5398,135,8,43,Medium
+P0841,TikTok,#Beauty,Video,West Africa,27746,2307,165,864,High
+P0842,X,#News,Poll,North Africa,13370,41,2,10,Low
+P0843,Facebook,#Food,Video,Europe,579,20,1,7,Medium
+P0844,Instagram,#Gaming,Reel,Europe,13156,324,57,78,Medium
+P0845,TikTok,#Beauty,Video,Southern Africa,4527,533,58,173,High
+P0846,X,#Health,Video,Central Africa,5144,133,13,18,Medium
+P0847,Instagram,#Lifestyle,Reel,East Africa,10789,882,59,356,High
+P0848,YouTube,#Business,Live,North America,2811,59,5,18,Low
+P0849,TikTok,#Tech,Story,North Africa,746,67,9,12,High
+P0850,LinkedIn,#Fitness,Image,East Africa,236,11,0,5,Medium
+P0851,TikTok,#Entertainment,Video,West Africa,27099,3542,465,596,High
+P0852,TikTok,#Sports,Story,North America,29507,2771,426,344,High
+P0853,X,#Startup,Image,East Africa,3178,80,9,27,Medium
+P0854,LinkedIn,#Tech,Carousel,Central Africa,1045,15,1,5,Low
+P0855,TikTok,#Health,Video,Asia,19064,76,7,20,Low
+P0856,Facebook,#Startup,Video,Middle East,12220,331,36,81,Medium
+P0857,YouTube,#Finance,Video,North America,92244,6117,360,1787,High
+P0858,X,#Gaming,Video,North America,10274,133,19,19,Low
+P0859,Instagram,#Fitness,Reel,Europe,2598,181,15,63,High
+P0860,Facebook,#Entertainment,Text,Central Africa,2738,39,4,14,Low
+P0861,YouTube,#Finance,Live,North Africa,26708,729,74,138,Medium
+P0862,YouTube,#Travel,Video,Central Africa,5962,253,25,45,Medium
+P0863,X,#Health,Poll,West Africa,5129,161,12,35,Medium
+P0864,Facebook,#Education,Text,Southern Africa,752,25,3,9,Medium
+P0865,TikTok,#Food,Live,North Africa,6702,950,167,166,High
+P0866,LinkedIn,#Entertainment,Video,North America,1051,13,1,5,Low
+P0867,X,#Startup,Video,Asia,2656,62,3,24,Medium
+P0868,X,#News,Text,West Africa,7980,300,37,32,Medium
+P0869,TikTok,#Business,Video,Asia,9716,441,79,85,Medium
+P0870,TikTok,#Art,Live,Europe,264209,29178,5248,6420,High
+P0871,YouTube,#Food,Video,Central Africa,7183,354,21,70,Medium
+P0872,TikTok,#News,Video,Central Africa,13101,1759,245,471,High
+P0873,LinkedIn,#Tech,Video,Central Africa,715,35,5,6,Medium
+P0874,Instagram,#Fashion,Carousel,North America,6506,344,61,93,High
+P0875,YouTube,#Health,Video,North Africa,4847,15,2,2,Low
+P0876,X,#Art,Video,Asia,48894,1133,172,127,Low
+P0877,Instagram,#Sports,Live,West Africa,867,77,9,17,High
+P0878,Instagram,#Food,Story,North America,1453,71,6,13,Medium
+P0879,Facebook,#Startup,Video,Central Africa,2263,85,13,24,Medium
+P0880,Facebook,#Gaming,Video,North Africa,41690,1450,119,329,Medium
+P0881,Instagram,#Business,Image,Asia,29432,82,14,21,Low
+P0882,Facebook,#Health,Poll,Southern Africa,1867,49,7,10,Medium
+P0883,LinkedIn,#Business,Video,Southern Africa,417,10,1,3,Medium
+P0884,Facebook,#Art,Live,Asia,39384,925,162,116,Medium
+P0885,TikTok,#Lifestyle,Live,North Africa,32192,2058,296,191,High
+P0886,Instagram,#Education,Image,West Africa,3003,168,16,42,High
+P0887,Instagram,#Sports,Reel,North Africa,10642,55,6,15,Low
+P0888,TikTok,#Music,Video,Europe,10645,1243,109,245,High
+P0889,TikTok,#Music,Live,West Africa,17760,756,112,148,Medium
+P0890,YouTube,#Beauty,Video,Europe,15888,903,76,146,High
+P0891,Instagram,#Food,Reel,Middle East,5501,274,25,59,Medium
+P0892,LinkedIn,#Food,Text,Europe,1371,37,5,11,Medium
+P0893,Instagram,#News,Carousel,West Africa,26526,1372,108,342,Medium
+P0894,TikTok,#Lifestyle,Video,Latin America,8288,384,22,136,Medium
+P0895,YouTube,#Lifestyle,Video,Southern Africa,47044,1131,136,345,Medium
+P0896,X,#Music,Image,Asia,1147,11,1,3,Low
+P0897,Instagram,#News,Carousel,Central Africa,8048,152,17,38,Low
+P0898,TikTok,#Food,Story,Southern Africa,17200,54,6,8,Low
+P0899,TikTok,#Business,Live,North Africa,40614,5295,623,1045,High
+P0900,Facebook,#Art,Poll,Asia,8617,77,11,22,Low
+P0901,Facebook,#Entertainment,Text,North America,3536,46,5,14,Low
+P0902,Instagram,#Fitness,Carousel,Europe,2157,6,0,2,Low
+P0903,TikTok,#Startup,Video,West Africa,119201,4658,620,1216,Medium
+P0904,Facebook,#Beauty,Text,West Africa,549,32,3,6,High
+P0905,LinkedIn,#Health,Text,Middle East,3039,156,27,45,High
+P0906,YouTube,#Education,Video,West Africa,132467,4766,811,820,Medium
+P0907,Facebook,#Lifestyle,Poll,Middle East,3291,93,5,23,Medium
+P0908,TikTok,#Finance,Video,West Africa,13121,1292,229,319,High
+P0909,Instagram,#Tech,Reel,Southern Africa,1603,9,1,2,Low
+P0910,Instagram,#Travel,Reel,Europe,11792,489,95,130,Medium
+P0911,YouTube,#Tech,Video,Europe,57411,2403,198,829,Medium
+P0912,X,#Lifestyle,Text,Central Africa,1061,52,4,12,Medium
+P0913,LinkedIn,#Travel,Image,Latin America,5481,285,29,88,High
+P0914,LinkedIn,#Finance,Text,East Africa,1225,38,3,15,Medium
+P0915,LinkedIn,#Finance,Carousel,North America,963,57,4,20,High
+P0916,LinkedIn,#Health,Video,North Africa,1706,58,10,14,Medium
+P0917,TikTok,#Gaming,Story,West Africa,7424,257,38,44,Medium
+P0918,TikTok,#Travel,Story,Asia,58454,625,50,230,Low
+P0919,Instagram,#Business,Reel,Asia,17427,863,103,247,Medium
+P0920,Facebook,#Business,Text,Central Africa,1051,39,4,8,Medium
+P0921,TikTok,#Gaming,Story,Europe,9344,926,128,174,High
+P0922,X,#Health,Image,Southern Africa,27049,688,114,42,Medium
+P0923,Facebook,#News,Image,Europe,21829,525,46,133,Medium
+P0924,Facebook,#Tech,Text,Latin America,172,4,0,2,Medium
+P0925,TikTok,#Education,Live,North America,70282,3750,429,1233,High
+P0926,Instagram,#Tech,Carousel,Central Africa,11060,673,43,145,High
+P0927,TikTok,#Beauty,Live,West Africa,35012,2684,225,532,High
+P0928,X,#Gaming,Image,Central Africa,23286,512,86,97,Low
+P0929,Facebook,#Fitness,Live,West Africa,4193,117,14,42,Medium
+P0930,YouTube,#Tech,Live,Asia,8697,461,71,119,High
+P0931,Instagram,#Startup,Story,Central Africa,5799,102,8,20,Low
+P0932,Instagram,#Food,Carousel,North America,16626,904,161,258,High
+P0933,Instagram,#Music,Carousel,East Africa,7215,19,1,8,Low
+P0934,YouTube,#Art,Live,East Africa,9028,680,81,118,High
+P0935,YouTube,#Gaming,Video,East Africa,6674,151,15,26,Low
+P0936,TikTok,#Travel,Live,Asia,20409,57,9,15,Low
+P0937,LinkedIn,#News,Poll,Southern Africa,8603,508,50,137,High
+P0938,TikTok,#Gaming,Live,Southern Africa,9689,683,119,121,High
+P0939,X,#Tech,Poll,Southern Africa,5478,115,18,18,Low
+P0940,TikTok,#Fitness,Live,East Africa,28276,2161,249,441,High
+P0941,Instagram,#Entertainment,Carousel,Central Africa,9576,799,73,203,High
+P0942,X,#Business,Poll,Central Africa,2525,44,6,13,Low
+P0943,TikTok,#Finance,Live,Central Africa,4941,116,15,34,Medium
+P0944,Instagram,#Health,Carousel,Central Africa,16055,1284,182,309,High
+P0945,Facebook,#Sports,Video,Asia,312,3,0,2,Low
+P0946,Instagram,#Education,Live,East Africa,4057,217,23,54,High
+P0947,YouTube,#Tech,Video,West Africa,15407,48,5,8,Low
+P0948,X,#Beauty,Video,North America,20461,185,27,60,Low
+P0949,X,#News,Text,East Africa,13390,101,6,41,Low
+P0950,Instagram,#Fashion,Live,Central Africa,1434,94,13,20,High
+P0951,Facebook,#Tech,Video,West Africa,6041,124,8,36,Low
+P0952,Instagram,#News,Image,Asia,10431,974,140,306,High
+P0953,Instagram,#Art,Carousel,Europe,5869,301,33,44,Medium
+P0954,TikTok,#News,Live,East Africa,36308,2732,505,431,High
+P0955,LinkedIn,#Gaming,Text,East Africa,3235,69,10,16,Low
+P0956,X,#Business,Image,East Africa,24924,761,89,137,Medium
+P0957,YouTube,#Entertainment,Video,North America,13313,194,19,53,Low
+P0958,Facebook,#Startup,Video,Europe,6225,219,16,43,Medium
+P0959,Facebook,#Health,Video,Central Africa,4762,93,9,23,Low
+P0960,Facebook,#Beauty,Video,North America,8786,320,51,63,Medium
+P0961,Facebook,#Music,Poll,West Africa,1378,24,1,7,Low
+P0962,Instagram,#Sports,Story,West Africa,856,66,11,9,High
+P0963,TikTok,#Entertainment,Video,Central Africa,96122,4592,849,1292,High
+P0964,TikTok,#Sports,Story,North America,167786,480,92,99,Low
+P0965,LinkedIn,#Education,Image,West Africa,5969,205,32,14,Medium
+P0966,Facebook,#Startup,Poll,Middle East,710,39,2,11,High
+P0967,LinkedIn,#Music,Poll,Southern Africa,3970,288,27,37,High
+P0968,TikTok,#Startup,Live,Southern Africa,13344,44,4,15,Low
+P0969,Facebook,#Music,Text,Central Africa,2480,74,7,26,Medium
+P0970,TikTok,#Gaming,Live,East Africa,13038,672,84,116,Medium
+P0971,Instagram,#Startup,Carousel,Europe,1770,165,20,48,High
+P0972,TikTok,#Tech,Story,East Africa,27540,3115,475,933,High
+P0973,TikTok,#Education,Live,North America,6022,147,13,40,Medium
+P0974,LinkedIn,#Health,Poll,Europe,11514,576,51,210,High
+P0975,Instagram,#Food,Image,Central Africa,23208,1095,193,145,Medium
+P0976,Facebook,#Business,Text,North Africa,2264,14,2,3,Low
+P0977,Facebook,#Lifestyle,Image,North America,2543,30,3,6,Low
+P0978,Instagram,#Sports,Carousel,North America,13548,805,111,204,High
+P0979,Facebook,#Lifestyle,Poll,North America,9343,218,17,66,Medium
+P0980,TikTok,#Fitness,Live,Asia,10879,233,36,58,Medium
+P0981,LinkedIn,#Health,Video,North America,2537,161,19,20,High
+P0982,X,#Fashion,Poll,West Africa,24318,127,16,25,Low
+P0983,YouTube,#Business,Live,North America,3638,226,37,27,High
+P0984,Facebook,#Health,Live,Latin America,21283,570,64,97,Medium
+P0985,TikTok,#Travel,Video,Europe,3049,128,10,38,Medium
+P0986,LinkedIn,#Health,Poll,East Africa,3213,65,4,18,Low
+P0987,Instagram,#Health,Carousel,Europe,11606,80,15,17,Low
+P0988,TikTok,#Health,Video,Central Africa,41511,4040,565,509,High
+P0989,Instagram,#Finance,Story,Latin America,3465,209,29,51,High
+P0990,X,#Health,Text,Central Africa,2737,39,3,15,Low
+P0991,Facebook,#Art,Poll,North Africa,1437,90,9,16,High
+P0992,YouTube,#Beauty,Live,North America,788,22,2,6,Medium
+P0993,X,#Art,Text,Southern Africa,745,18,2,7,Medium
+P0994,TikTok,#Fashion,Live,Middle East,15995,2030,388,426,High
+P0995,LinkedIn,#Business,Carousel,Central Africa,5444,166,28,10,Medium
+P0996,Instagram,#Business,Live,North Africa,66693,3539,600,484,Medium
+P0997,Facebook,#Tech,Live,West Africa,36634,2012,293,556,High
+P0998,TikTok,#Fashion,Video,North America,23038,1346,104,293,High
+P0999,LinkedIn,#Fashion,Carousel,West Africa,555,28,2,9,High
+P1000,Instagram,#Gaming,Carousel,West Africa,2004,144,16,38,High
